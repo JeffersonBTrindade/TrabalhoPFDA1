@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Far-para-Cel/Farenheit-Celsius&apos; to &apos;Farenheit-Celsius.c&apos;" description="Rename resource &apos;Farenheit-Celsius&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Farenheit-Celsius" name="Farenheit-Celsius.c" stamp="1615751033285" updateReferences="true"/>
+</session>

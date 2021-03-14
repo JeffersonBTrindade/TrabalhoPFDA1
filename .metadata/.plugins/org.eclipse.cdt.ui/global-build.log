@@ -1,0 +1,98 @@
+16:44:19 **** Build of configuration Debug for project Far-para-Cel ****
+make all 
+Building file: ../Farenheit-Celsius.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Farenheit-Celsius.d" -MT"Farenheit-Celsius.o" -o "Farenheit-Celsius.o" "../Farenheit-Celsius.c"
+../Farenheit-Celsius.c:2:10: fatal error: conio.h: Arquivo ou diretório não encontrado
+    2 | #include <conio.h>
+      |          ^~~~~~~~~
+compilation terminated.
+make: *** [subdir.mk:20: Farenheit-Celsius.o] Erro 1
+"make all" terminated with exit code 2. Build might be incomplete.
+16:45:03 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+Building file: ../Farenheit-Celsius.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Farenheit-Celsius.d" -MT"Farenheit-Celsius.o" -o "Farenheit-Celsius.o" "../Farenheit-Celsius.c"
+Finished building: ../Farenheit-Celsius.c
+ 
+Building target: Far-para-Cel
+Invoking: GCC C Linker
+gcc  -o "Far-para-Cel"  ./Farenheit-Celsius.o   
+Finished building target: Far-para-Cel
+ 
+16:45:16 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
+16:45:41 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
+16:46:20 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
+16:46:26 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
+16:48:26 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
+16:48:58 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
+17:13:54 **** Clean-only build of configuration Debug for project Far-para-Cel ****
+make clean 
+rm -rf  ./Farenheit-Celsius.o  ./Farenheit-Celsius.d  Far-para-Cel
+ 
+17:13:54 **** Build of configuration Debug for project Far-para-Cel ****
+make all 
+Building file: ../Farenheit-Celsius.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Farenheit-Celsius.d" -MT"Farenheit-Celsius.o" -o "Farenheit-Celsius.o" "../Farenheit-Celsius.c"
+../Farenheit-Celsius.c:2:10: fatal error: conio.h: Arquivo ou diretório não encontrado
+    2 | #include <conio.h>
+      |          ^~~~~~~~~
+compilation terminated.
+make: *** [subdir.mk:20: Farenheit-Celsius.o] Erro 1
+"make all" terminated with exit code 2. Build might be incomplete.
+17:14:08 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+Building file: ../Farenheit-Celsius.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Farenheit-Celsius.d" -MT"Farenheit-Celsius.o" -o "Farenheit-Celsius.o" "../Farenheit-Celsius.c"
+Finished building: ../Farenheit-Celsius.c
+ 
+Building target: Far-para-Cel
+Invoking: Cross GCC Linker
+gcc  -o "Far-para-Cel"  ./Farenheit-Celsius.o   
+Finished building target: Far-para-Cel
+ 
+17:14:18 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
+17:14:20 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
+17:14:43 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
+17:15:53 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+Building file: ../Farenheit-Celsius.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Farenheit-Celsius.d" -MT"Farenheit-Celsius.o" -o "Farenheit-Celsius.o" "../Farenheit-Celsius.c"
+Finished building: ../Farenheit-Celsius.c
+ 
+Building target: Far-para-Cel
+Invoking: Cross GCC Linker
+gcc  -o "Far-para-Cel"  ./Farenheit-Celsius.o   
+Finished building target: Far-para-Cel
+ 
+17:16:06 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
+17:16:11 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
+17:16:21 **** Incremental Build of configuration Debug for project Far-para-Cel ****
+make all 
+make: Nada a ser feito para 'all'.
